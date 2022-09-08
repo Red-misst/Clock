@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+}
+
+
+
+.clock {
+  display: grid;
+  justify-content: center;
+  align-content:  center;
+  font-size: 5rem;
+}
+
+.stopwatch{
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  font-size: 4rem;
+}
+
+.stopwatch-display{
+  display: inline-block;
+}
